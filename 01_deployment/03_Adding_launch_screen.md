@@ -1,4 +1,3 @@
-# Adding a launch screen
 
 1. Open [**https://pub.dev**](https://pub.dev)
 2. Type **flutter_native_splash**

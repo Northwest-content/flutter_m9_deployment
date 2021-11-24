@@ -1,4 +1,3 @@
-# Setting the app icon
 
 1. Open [**https://pub.dev**](https://pub.dev)
 2. Type **flutter_launcher_icons**

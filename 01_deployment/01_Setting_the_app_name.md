@@ -1,4 +1,3 @@
-# Setting the app’s name
 
 1. Download the notes app project from GitHub, then open the project by using the VS Code, and get the packages.
 
